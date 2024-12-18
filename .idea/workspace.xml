@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c5d0ead-ec54-4859-8443-a5e71ea48f9b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/Nots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/AddInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/AddOneArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/AddStringd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/AdvancedDSA/KadaneAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/AdvancedDSA/TwoDSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/AllAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/AllSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/AntiDiagnalsSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/AntiDiagnolsRect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/AreaOfRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Atoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/ClosestSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/ColourfulNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/ConsecutiveOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/ContinuousSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/CountOccurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DivisibleByM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Flip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/FloorAndCeil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/GoodArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Help.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/IndexOfAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/IsAlNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/JumpGameII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/KSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/KadaneAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/LargestZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/LongestConsecutiveSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/LongestSubStringWIthK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/LowestAvgSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/MatrixTranspose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/MaximumOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/MedianOfTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/MergeInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/MinFlips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/MinimumJumps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/MinimumSwaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/NByThreeLeetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/NByThreeRepeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/NobleElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/NumberOfTriplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/PickFromSides.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Prefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/RainWaterTrapV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/RecursionPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/AntiDiagnals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/BuySell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/ClosestMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/CountOfPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/CountingSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/ElementsRemoval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/EquilibriumIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/EvenNumbersInaRa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/GoodSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/IsPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/NobleInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/PickFromBothSides.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/RotateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/RotateMatrix180.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/SpecialIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Revision/test1/SubArrayWithLeastAvg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/RowToColZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/SingleNonDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/SortBySumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/SpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/SubArrayOr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/SubSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/SubmatricesSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/SumOFDiagnalRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/TotalSubArrayContribution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/TrappedWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/TwoDMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dheerajupadh"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dheerajupadh/DSA.git",
+    "accountId": "ef74ed04-3bb6-4d17-b771-69e018b1f86e"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2qOst7bxu2xqXG9Hzx25ApJET20" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/kafka-projects/DSA"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c5d0ead-ec54-4859-8443-a5e71ea48f9b" name="Changes" comment="" />
+      <created>1734545170766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734545170766</updated>
+    </task>
+    <servers />
+  </component>
+</project>
